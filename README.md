@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @erfan-davoodi-nasr
+- 👀 I’m interested in Data Science, ML, DL, SQL, GA, AI, Planning, Supply Chain Management
+- 📫 How to reach me:
+- https://www.linkedin.com/in/erfan-davoodi-nasr/
